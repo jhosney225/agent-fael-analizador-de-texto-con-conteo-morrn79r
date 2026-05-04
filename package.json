@@ -1,0 +1,6 @@
+{
+  "name": "agent-fael-analizador-de-texto-con-conteo-morrn79r",
+  "version": "1.0.0",
+  "description": "Proyecto de Fael [Gen23]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
